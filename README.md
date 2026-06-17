@@ -59,4 +59,4 @@ assets/       - Images and static assets
 
 ---
 
-Made by lohith // powered by curiosity.
+## Made by lohith // powered by curiosity.
